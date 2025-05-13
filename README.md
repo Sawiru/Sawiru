@@ -1,4 +1,4 @@
-<h1>Hello World! I'm Sawiru👋</h1>
+# Hello World! I'm Sawiru👋
 - A Software Engineering Undergraduate
 - AI / Web Development Enthusiast
 
