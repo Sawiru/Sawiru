@@ -1,6 +1,6 @@
 # Hello World! I'm Sawiru👋
-- A Software Engineering Undergraduate
-- AI / Web Development Enthusiast
+- Computer Science Undergraduate
+- web2 & web3 Enthusiast
 
 ## Tech Stack 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
