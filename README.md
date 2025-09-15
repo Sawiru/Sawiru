@@ -1,6 +1,6 @@
 # Hello World! I'm Sawiru👋
 
-<h3 align="center">A passionate about creating software with the goal of helping people and making an impact.</h3>
+<h3 align="center"> Passionate about creating software with the goal of helping people and making an impact.</h3>
 
 - 🔭 A Computer Science Undergraduate
 
