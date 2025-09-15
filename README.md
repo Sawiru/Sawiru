@@ -1,16 +1,28 @@
-# Hello World! I'm Sawiru👋
+<h1 align="center"> Hello World! I'm Sawiru👋 </h1>
 
-![Image](https://github.com/user-attachments/assets/8047e63a-d810-44ce-9823-8556e22b3547)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8047e63a-d810-44ce-9823-8556e22b3547" alt="Top Banner" />
+</p>
 
 <h3 align="center"> Passionate about creating software with the goal of helping people and making an impact.</h3>
 
-![Image](https://github.com/user-attachments/assets/453afdd9-21c5-4e0f-869a-a29753d4e461)
+<br>
 
-- 💻 A Computer Science Undergraduate
+<div align="center">
 
-- 🧩 Web2 & Web3 Enthusiast
+  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+    💻 A Computer Science Undergraduate <br>
+    🧩 Web2 & Web3 Enthusiast <br>
+    📫 How to reach me <b>sawirudw@gmail.com</b>
+  </div>
 
-- 📫 How to reach me **sawirudw@gmail.com**
+  <br>
+
+  <div style="display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/453afdd9-21c5-4e0f-869a-a29753d4e461" width="400px" alt="Profile Image"/>
+  </div>
+
+</div>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sawiru_88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sawiru-wimalatunge/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sawirudw@gmail.com) 
