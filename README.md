@@ -2,9 +2,9 @@
 
 <h3 align="center"> Passionate about creating software with the goal of helping people and making an impact.</h3>
 
-- 🔭 A Computer Science Undergraduate
+- 💻 A Computer Science Undergraduate
 
-- 🤝 web2 & web3 Enthusiast
+- 🧩 Web2 & Web3 Enthusiast
 
 - 📫 How to reach me **sawirudw@gmail.com**
 
