@@ -1,6 +1,13 @@
 # Hello World! I'm Sawiru👋
 A Computer Science Undergraduate<br>web2 & web3 Enthusiast
 
+<h3 align="center">A passionate </h3>
+
+- 🔭 A Computer Science Undergraduate
+
+- 🤝 web2 & web3 Enthusiast
+
+- 📫 How to reach me **sawirudw@gmail.com**
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sawiru_88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sawiru-wimalatunge/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sawirudw@gmail.com) 
