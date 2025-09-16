@@ -19,7 +19,7 @@
   <br>
 
   <div style="display: inline-block;">
-    <img src="https://github.com/user-attachments/assets/453afdd9-21c5-4e0f-869a-a29753d4e461" width="500px" alt="Profile Image"/>
+    <img src="https://github.com/user-attachments/assets/f78c37b4-d154-499f-ab43-cad68c0d5f4b" width="500px" alt="Profile Image"/>
   </div>
 
 </div>
