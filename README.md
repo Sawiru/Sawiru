@@ -37,6 +37,5 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sawiru&theme=dark&hide_border=false" /><br/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawiru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
