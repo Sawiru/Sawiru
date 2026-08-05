@@ -12,7 +12,7 @@
 
   <div style="display: inline-block; text-align: left; margin-right: 20px;">
     💻 A Computer Science Undergraduate <br>
-    🧩 Web2 & Web3 Enthusiast <br>
+    🧩 ML & Soft Eng Enthusiast <br>
     📫 How to reach me <b>sawirudw@gmail.com</b>
   </div>
 
