@@ -77,7 +77,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <!-- <p align="left"> -->
 <a href="linkedin.com/in/sawiru-wimalatunge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SawiruWimalatunge" width="40" /></a>
-<a href="https://fb.com/supunnanayakkara01](https://github.com/Sawiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SawiruWimalatunge" width="40" /></a>
+<a href="https://fb.com/supunnanayakkara01](https://github.com/Sawiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SawiruWimalatunge" width="40" /></a>
 <!-- </p> -->
  </div>
 <br>
