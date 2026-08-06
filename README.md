@@ -30,7 +30,7 @@
 <p align="left">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,spring,flask,fastapi,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,spring,flask,fastapi,express" />
 </p>
 
 ### Frontend
@@ -38,14 +38,13 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs,redux,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
 </p>
 
 ### Database & APIs
 <p align="left">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50"/>
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50"/>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
@@ -71,17 +70,14 @@
 <p align="left">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=git,figma,xd,idea,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,postman,linux" />
 </p>
 
 ## Socials:
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <!-- <p align="left"> -->
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" width="40" /></a>
-<a href="https://fb.com/supunnanayakkara01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" width="40" /></a>
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" width="40" /></a>
+<a href="linkedin.com/in/sawiru-wimalatunge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SawiruWimalatunge" width="40" /></a>
+<a href="https://fb.com/supunnanayakkara01](https://github.com/Sawiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SawiruWimalatunge" width="40" /></a>
 <!-- </p> -->
  </div>
 <br>
