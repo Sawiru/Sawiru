@@ -24,16 +24,16 @@
 
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🚀 Backend
+### Backend
 <p align="left">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,spring,flask,fastapi,express,nestjs" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,redux,tailwind,materialui" />
 </p>
 
-### 🗄️ Database & APIs
+### Database & APIs
 <p align="left">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50"/>
@@ -49,14 +49,14 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p align="left">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50"/>
   <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,cloudflare" />
 </p>
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 </p>
 
-### 🛠️ Tools
+### Tools
 <p align="left">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50"/>
